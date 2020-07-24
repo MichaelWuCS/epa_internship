@@ -1,0 +1,2 @@
+# EPA
+This is the project I worked on during my summer 2019 internship with the Environmental Protection Agency as a part of their Computational Exposure Division. Included here are two reports I wrote on the file. Specifically, I worked on the GLIMPSE graphical interface. GLIMPSE is the graphical interface for a program known as G-CAM and G-CAM-USA. These two programs are the most widely used predictive air quality computational models. GLIMPSE is the graphical interface which aims to make the GCAM model more intuitive and accessible for both scholars and policymakers.
